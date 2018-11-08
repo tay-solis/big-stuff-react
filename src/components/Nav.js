@@ -5,7 +5,7 @@ class Nav extends Component {
     render(){
         return(
             <nav>
-                <h1>This is the Nav</h1>
+                <h1>Bug Stuff</h1>
                 <ul>
                     <li><Link to="/">Home</Link></li>
                     <li><Link to="/bugs">Bugs</Link></li>
